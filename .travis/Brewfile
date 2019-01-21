@@ -1,0 +1,11 @@
+brew 'python'
+
+brew 'exempi'
+brew 'ghostscript'
+brew 'jbig2enc'
+brew 'leptonica'
+brew 'openjpeg'
+brew 'pngquant'
+brew 'qpdf'
+brew 'tesseract'
+brew 'unpaper'
